@@ -100,7 +100,7 @@ class Weather_checker(QWidget):
         self.setLayout(self.mainLayout)
 
     def get_info(self):
-        api = "d6072614c06005c471c66bdc8935f97b"
+        api = "" # paste your api key
         url = "http://api.openweathermap.org/data/2.5/weather?"
         self.city = self.search.text()
         fill = url + "appid=" + api + "&q=" + self.city
