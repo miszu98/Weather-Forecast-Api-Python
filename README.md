@@ -8,6 +8,9 @@
 * sys
 * time
 
+## Launch
+Before launch you must paste your api key 
+
 ## Images
 ![alt text](https://i.imgur.com/m2TV0OR.png)
 
